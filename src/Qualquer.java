@@ -1,4 +1,9 @@
 
+/**
+ * classe que nao faz nada
+ * @author Apel
+ *
+ */
 public class Qualquer {
 
 	
