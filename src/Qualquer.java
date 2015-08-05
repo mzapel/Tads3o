@@ -5,6 +5,8 @@ public class Qualquer {
 		System.out.println("Olá Mundo!");
 		
 		System.out.println(calc(2, 2));
+		
+		System.out.println("QUAC");
 	}
 	
 	
